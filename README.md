@@ -2,6 +2,15 @@
 
 ###
 
+  <!-- Google Me -->
+  <p align="center">
+    <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=1750&size=23">
+    </a>
+  </p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=A7MADTANTAWY&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=A7MADTANTAWY&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
