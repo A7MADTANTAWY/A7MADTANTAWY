@@ -31,3 +31,4 @@ jobs:
           author_email: github-actions@github.com
           message: "generate snake contribution graph"
           add: "output/*.svg"
+          push: --force
