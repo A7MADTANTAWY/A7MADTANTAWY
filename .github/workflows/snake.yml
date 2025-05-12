@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" # كل يوم الساعة 12 صباحاً
   workflow_dispatch:
 
+permissions:
+  contents: write  # ده السطر المهم اللي يدي الصلاحية للبوت
+
 jobs:
   generate:
     runs-on: ubuntu-latest
