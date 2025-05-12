@@ -2,9 +2,6 @@
 
 <h2 align="center">Mobile Application Developer 📱</h2>
 
-
-<h2 align="center"></h2>
-
 ###
 
   <!-- Google Me -->
@@ -15,6 +12,8 @@
   </p>
 
 ###
+
+<h2 align="center"></h2>
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNreHUxN2dxanZvM2loM2lieTZ5MThyeGZvNHVnNHlldW5yN25obCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
 
