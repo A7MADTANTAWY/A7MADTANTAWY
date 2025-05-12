@@ -3,9 +3,6 @@
 <h2 align="center">Mobile Application Developer 📱</h2>
 
 ###
-
-<h2 align="center"></h2>
-
   <!-- Google Me -->
   <p align="center">
     <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
