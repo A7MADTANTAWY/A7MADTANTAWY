@@ -13,6 +13,11 @@
   <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="33"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A7MADTANTAWY/A7MADTANTAWY/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+
 <!-- WhatsApp Channel & LinkedIn -->
 <p align="center">
   <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
