@@ -1,4 +1,6 @@
-<h2 align="left">👋 Hi, I'm Ahmed Farrag — Mobile Application Developer 📱</h2>
+<h2 align="center">👋 Hi, I'm Ahmed Farrag</h2>
+
+<h2 align="left">  Mobile Application Developer 📱</h2>
 
 ###
 
