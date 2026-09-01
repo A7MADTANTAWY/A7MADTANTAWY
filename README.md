@@ -5,10 +5,14 @@
 ###
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/ahmed-f-tantawy" target="_blank">
+    <a href="https://www.linkedin.com/in/ahmedfarragtantawy" target="_blank">
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit+my+LinkedIn+Profile;Data+Analyst+|+Passionate+about+Data;Follow+for+Updates&font=Bold+Code&center=true&color=30D050&pause=1750&size=23">
     </a>
   </p>
+
+###
+
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNreHUxN2dxanZvM2loM2lieTZ5MThyeGZvNHVnNHlldW5yN25obCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
 
 ###
 
@@ -20,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="matplotlib logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="30" alt="excel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
@@ -42,7 +48,7 @@
   <a href="https://www.instagram.com/tantawy6810/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-f-tantawy" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmedfarragtantawy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:eng.ahmed.f.tantawy@gmail.com" target="_blank">
@@ -60,7 +66,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ahmed-f-tantawy" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmedfarragtantawy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/tantawy6810/" target="_blank">
@@ -75,9 +81,6 @@
   <a href="https://t.me/+201006766128" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
-  <a href="https://ahmed-tantawy.web.app/#/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/firebase/default.svg" width="52" height="40" alt="portfolio logo" />
-  </a>
 </div>
 
 ###
@@ -87,17 +90,3 @@
   <img src="https://streak-stats.demolab.com?user=A7MADTANTAWY&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=A7MADTANTAWY&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=A7MADTANTAWY&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A7MADTANTAWY&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
