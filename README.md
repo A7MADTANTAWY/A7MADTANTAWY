@@ -54,7 +54,7 @@
   <a href="mailto:eng.ahmed.f.tantawy@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://ahmed-tantawy.web.app/#/" target="_blank">
+  <a href="https://ahmed-tantawy.web.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=firebase&label=&color=FFCA28&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
 </div>
