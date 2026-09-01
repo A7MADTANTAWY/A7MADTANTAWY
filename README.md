@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Ahmed Farrag</h2>
+<h2 align="center">👋 Hi, I'm Ahmed Farrag Tantawy</h2>
 
 <h2 align="center">Mobile Application Developer 📱</h2>
 
@@ -7,7 +7,7 @@
   <!-- Google Me -->
 
   <p align="center">
-    <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
+    <a href="https://www.google.com.eg/search?q=ahmed+farrag+tantawy">
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=1750&size=23">
     </a>
   </p>
@@ -60,6 +60,9 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://ahmed-tantawy.web.app/#/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=firebase&label=&color=FFCA28&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
+  </a>
 </div>
 
 ###
@@ -89,6 +92,9 @@
   </a>
   <a href="https://t.me/+201006766128" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  </a>
+  <a href="https://ahmed-tantawy.web.app/#/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/firebase/default.svg" width="52" height="40" alt="portfolio logo" />
   </a>
 </div>
 
